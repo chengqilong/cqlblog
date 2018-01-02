@@ -12,4 +12,4 @@
 
 <h4 align="center">A JavaScript optimization handbook from a high level point of view.</h4>
 
-<br>
+ 637614016f3bef894ce80b129c4228a65a5bd5f5
