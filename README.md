@@ -10,6 +10,6 @@
   <a class="badge" target="_blank" href="https://paypal.me/kikobeats"><img src="https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square" alt="Donate"></a>
 </p>
 
-<h4 align="center">A JavaScript optimization handbook from a high level point of view.</h4>
+<h4 align="center">A JavaScript optimization handbook from a high level point of view.chengqilong</h4>
 
  637614016f3bef894ce80b129c4228a65a5bd5f5
