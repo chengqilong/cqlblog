@@ -45,3 +45,4 @@ gulp.task('default', () => {
   gulp.watch(src.css, ['css'])
   gulp.watch(src.js, ['js'])
 })
+var a = '';
